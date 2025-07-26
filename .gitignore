@@ -1,6 +1,7 @@
 # Terraform state files and backups
 *.tfstate
 *.tfstate.*
+*.terraform.lock.*
 # Terraform local configuration directory
 .terraform/
 # Terraform CLI configuration files
